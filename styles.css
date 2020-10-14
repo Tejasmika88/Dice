@@ -1,0 +1,27 @@
+h1 {
+  font-size: 6rem;
+  color: orange;
+  font-family: cursive,serif;
+}
+
+div{
+  font-size: 2rem;
+  color: #01c5c4;
+  font-family: monospace;
+  display: inline-block;
+  margin: 0 30px 0 30px;
+}
+
+img{
+  width: 200px;
+  height:200px;
+}
+
+body{
+  background-color: bisque;
+  text-align: center;
+}
+
+h4{
+  margin-top: 100px;;
+}
